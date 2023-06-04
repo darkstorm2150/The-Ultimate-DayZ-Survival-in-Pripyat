@@ -1,16 +1,16 @@
 /***********************************************************************************************
- ***               The Ultimate Survival in Pripyat - Server Script                          ***
+ ***                The Ultimate Survival in Pripyat - Server Script                         ***
  ***********************************************************************************************
  *                                                                                             *
- *                Project Name: DayZ S.T.A.L.K.E.R                                             *
+ *                 Project Name : DayZ S.T.A.L.K.E.R                                           *
  *                                                                                             *
- *                   File Name: INIT.C                                                         *
+ *                    File Name : INIT.C                                                       *
  *                                                                                             *
- *                 Programmer: Victor Guerra-Espinoza                                          *
+ *                   Programmer : Victor Guerra-Espinoza                                       *
  *                                                                                             *
- *                 Start Date: June 4, 2023                                                   *
+ *                   Start Date : June 4, 2023                                                 *
  *                                                                                             *
- *                Last Update: June 4, 2023                                                   *
+ *                  Last Update : June 4, 2023                                                 *
  *                                                                                             *
  *--------------------------------------------------------------------------------------------*/
 
