@@ -1,19 +1,28 @@
- /***********************************************************************************************
-  ***            C O N F I D E N T I A L  ---  T H E   U L T I M A T E   S U R V I V A L      ***
-  ***********************************************************************************************
-  *                                                                                             *
-  *                 Project Name : DayZ S.T.A.L.K.E.R                                           *
-  *                                                                                             *
-  *                    File Name : INIT.C                                                       *
-  *                                                                                             *
-  *                   Programmer : Victor Guerra-Espinoza                                       *
-  *                                                                                             *
-  *                   Start Date : June 4, 2023                                                 *
-  *                                                                                             *
-  *                  Last Update : June 4, 2023 [V.G.E.]                                        *
-  *                                                                                             *
-  *---------------------------------------------------------------------------------------------*
-  
+/***********************************************************************************************
+ ***                The Ultimate Survival in Pripyat - Server Script                         ***
+ ***********************************************************************************************
+ *                                                                                             *
+ *                 Project Name : DayZ S.T.A.L.K.E.R                                           *
+ *                                                                                             *
+ *                    File Name : INIT.C                                                       *
+ *                                                                                             *
+ *                   Programmer : Victor Guerra-Espinoza                                       *
+ *                                                                                             *
+ *                   Start Date : June 4, 2023                		                           *
+ *                                                                                             *
+ *                  Last Update : June 4, 2023 			                                       *
+ *                                                                                             *
+ *---------------------------------------------------------------------------------------------*/
+
+ /*
+  *  DayZ Standalone Modding
+  *  Mission Server Class
+  *  Custom Mission Script
+  *
+  *  Last Update: June 4, 2023
+  *  Author: Victor Espinoza
+  */
+
 
 void main()
 {
