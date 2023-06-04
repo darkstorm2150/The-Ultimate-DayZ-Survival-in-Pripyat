@@ -1,5 +1,5 @@
 /***********************************************************************************************
- ***                The Ultimate Survival in Pripyat - Server Script                         ***
+ ***                The Ultimate DayZ Survival in Pripyat - Server Script                         ***
  ***********************************************************************************************
  *                                                                                             *
  *                 Project Name : DayZ S.T.A.L.K.E.R                                           *
